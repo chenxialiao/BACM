@@ -33,6 +33,3 @@ After the above steps are done, simply run:
 ***
 # Reference
 [https://github.com/1ho0jin1/OSFI-by-FineTuning](https://github.com/1ho0jin1/OSFI-by-FineTuning)<br>
-[https://github.com/nupurkmr9/S2M2_fewshot](https://github.com/nupurkmr9/S2M2_fewshot)<br>
-[L-GM_loss_pytorch](https://github.com/ChaofWang/L-GM_loss_pytorch)<br>
-[CPEA](https://github.com/FushengHao/CPEA)
